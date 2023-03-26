@@ -1,0 +1,5 @@
+@media (min-width:425px) and (max-width:632px) {
+    .authorization__window {
+        left: auto;
+        }
+}

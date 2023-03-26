@@ -1,0 +1,23 @@
+@media (max-width:425px) {
+    .authorization__window {
+        left: auto;
+    }
+    .body {
+        max-width: 425px;
+    }
+
+    .in_text_login {
+        max-width: 95%;
+    }
+
+    .in_text_password {
+        max-width: 95%;
+        margin-bottom: 19px;
+    }
+
+    .button_window_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
